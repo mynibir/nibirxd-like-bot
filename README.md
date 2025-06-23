@@ -113,7 +113,7 @@ Copy
 Edit
 TOKEN=your_bot_token
 If you don't have an API key, create one from:
-https://rapidapi.com/greatthug/api/free-fire-like1
+https://rapidapi.com/mynibir/api/free-fire-like1
 
 Then add it to your .env:
 
